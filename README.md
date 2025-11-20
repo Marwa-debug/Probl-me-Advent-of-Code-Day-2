@@ -34,20 +34,6 @@ J'ai fait deux classes :
 4. Je parcours tous les niveaux et je vérifie les règles
 5. Je compte combien sont safe
 
-## Structure du projet
-
-```
-red-nosed-reports/
-├── src/
-│   ├── main/java/com/orange/aoc/
-│   │   ├── ReportAnalyzer.java
-│   │   └── RedNosedReports.java
-│   └── test/java/com/orange/aoc/
-│       └── ReportAnalyzerTest.java
-├── input.txt
-├── pom.xml
-└── README.md
-```
 
 ## Lancer le programme
 
