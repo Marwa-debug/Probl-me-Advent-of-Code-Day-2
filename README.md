@@ -77,13 +77,12 @@ Avec mon input personnel : **236 rapports safe**
 
 J'ai choisi Java plutôt que TypeScript parce que :
 - C'est la techno backend du stage (Java + Quarkus)
-- Je viens de faire du C# pendant mon stage chez HGH donc c'est proche
-- Ça montre que je sais faire du code backend robuste
-- C'est plus "sérieux" pour un test technique qu'un langage script
+- Je l'ai appliqué dans plein de petits projets dans le cadre de mes cours, en plus je viens de faire du C# pendant mon stage chez HGH donc c'est proche
+- Ça montre que je sais faire du code backend comme ce qui est mentionné dans l'offre du stage
 
 ## Notes
 
-Le code est assez simple, j'ai pas voulu trop compliquer. J'ai fait des tests pour être sûre que ça marche bien avec tous les exemples donnés dans le problème.
+J'ai essayé de coder d'une manière assez simple et claire. J'ai fait des tests pour être sûre que ça marche bien avec tous les exemples donnés dans le problème.
 
 ---
 
